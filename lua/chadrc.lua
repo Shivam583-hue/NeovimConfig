@@ -1,7 +1,7 @@
 local M = {}
 
 M.base46 = {
-  theme = "chadracula-evondev",
+  theme = "tokyodark",
   transparency = true,
 }
 
